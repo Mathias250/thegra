@@ -1,1 +1,3 @@
-# thegra
+# golomb
+
+## Zajebista gra
